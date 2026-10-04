@@ -1,11 +1,27 @@
-## Hi there , I'm SHIVAM 👋
+# About Me
 
-Web development enthusiast with a passion for learning and building real-world projects.
-Exploring modern web technologies and constantly improving by learning and building projects
+I'm a developer focused on **Golang backend development** and building reliable, scalable systems.
 
-### 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![Git](https://img.shields.io/badge/Git-red)
+- Developing and contributing to **Go-based projects**
+- Interested in **Backend Engineering, Distributed Systems & Networking**
+- Exploring **Cloud Infrastructure, DevOps & Kubernetes**
+- Working with technologies such as **Redis, Docker, PostgreSQL and Nginx**
+- Actively exploring and contributing to **open-source infrastructure projects**
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-67b592329/)
+
+# 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redis,docker,kubernetes,nginx,linux,git,github" />
+</p>
