@@ -14,5 +14,5 @@ I'm a developer focused on **Golang backend development** and building reliable,
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,supabase,redis,docker,kubernetes,nginx,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,supabase,docker,linux,git,github" />
 </p>
