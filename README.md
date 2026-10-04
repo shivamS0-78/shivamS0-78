@@ -5,8 +5,7 @@ I'm a developer focused on **Golang backend development** and building reliable,
 - Developing and contributing to **Go-based projects**
 - Interested in **Backend Engineering, Distributed Systems & Networking**
 - Exploring **Cloud Infrastructure, DevOps & Kubernetes**
-- Working with technologies such as **Redis, Docker, PostgreSQL and Nginx**
-- Actively exploring and contributing to **open-source infrastructure projects**
+- Actively exploring and contributing to **open-source projects**
 
 ## Socials
 
