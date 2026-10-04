@@ -6,6 +6,7 @@ I'm a developer focused on **Golang backend development** and building reliable,
 - Interested in **Backend Engineering, Distributed Systems & Networking**
 - Exploring **Cloud Infrastructure, DevOps & Kubernetes**
 - Actively exploring and contributing to **open-source projects**
+- How to reach me : shivam91066@gmail.com
 
 ## Socials
 
